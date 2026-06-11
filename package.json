@@ -1,5 +1,5 @@
 {
-  "name": "Cafe-App",
+  "name": "cafe-app",
   "private": true,
   "scripts": {
     "build": "turbo run build",
